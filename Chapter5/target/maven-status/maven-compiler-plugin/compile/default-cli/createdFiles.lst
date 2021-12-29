@@ -1,0 +1,12 @@
+com/course/testng/groups/GroupOnClass3.class
+com/course/testng/IgnoreTest.class
+com/course/testng/suite/LoginTest.class
+com/course/testng/ExpectedException.class
+com/course/testng/groups/GroupOnClass2.class
+com/course/testng/BasicAnnotation.class
+com/course/testng/suite/SuiteConfig.class
+com/course/testng/paramter/ParamterTest.class
+com/course/testng/DependTest.class
+com/course/testng/groups/GroupOnClass1.class
+com/course/testng/groups/GroupsOnMethod.class
+com/course/testng/suite/payTest.class
