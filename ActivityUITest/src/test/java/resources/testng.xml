@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">-->
+<suite name="我自己的接口测试套件">
+    <test name ="我自己的测试模块">
+        <classes>
+            <class name=""></class>
+            <methods>
+                <include name=""/>
+
+            </methods>
+        </classes>
+    </test>
+    <listeners>
+        <listener class-name="com.tester.exteng.demo.ExtentTestNGIReporterListener"></listener>
+    </listeners>
+</suite>
